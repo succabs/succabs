@@ -6,15 +6,28 @@
   <h1>
   Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
- 
-
-<div align="center">
+  </h1> 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
 ---
+  
+<div id="header" align="left">  
+  
+### :man_technologist: About Me :
+  
+  I am a developer from Finland.
 
-### :hammer_and_wrench: Languages and Tools :
+  - :telescope: Currently studying in university and looking for a job.
+  
+  - :zap: Interested in Full Stack Development and Network Security
+  
+  - :joystick: On my free time I play games, solve Rubik's cube and do some magnet fishing
+  
+  - :mailbox: You can reach me with email
+  
+</div>
+  
+### :hammer_and_wrench: Some languages and Tools I am familiar with:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -35,8 +48,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  
-</div>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=succabs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
 </div>
 

@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Arttu aka @succabs
-- 👀 I’m interested in getting a job 
-- 🌱 I’m currently filling my portfolio with projects that have an unique idea behind them 
-- 📫 How to reach me: email
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=succabs&style=flat-square&color=blue" alt=""/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=succabs&style=flat-square&color=blue" alt=""/>

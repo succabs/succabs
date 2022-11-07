@@ -3,13 +3,10 @@
   <div>
   <img src="https://komarev.com/ghpvc/?username=succabs&style=flat-square&color=blue" alt=""/>
   </div>
-  <h1>
+  <h2>
   Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1> 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  
----
+  </h2> 
   
 <div id="header" align="left">  
   
@@ -26,6 +23,8 @@
   - :mailbox: You can reach me with email
   
 </div>
+  
+---
   
 ### :hammer_and_wrench: Some languages and Tools I am familiar with:
 

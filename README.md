@@ -16,11 +16,11 @@
 
   - :telescope: Currently studying in university and looking for a job.
   
-  - :zap: Interested in Full Stack Development and Network Security
+  - :zap: Interested in Full Stack Development and Network Security.
   
-  - :joystick: On my free time I play games, solve Rubik's cube and do some magnet fishing
+  - :joystick: On my free time I play games, solve Rubik's cube and do some magnet fishing.
   
-  - :mailbox: You can reach me with email
+  - :mailbox: You can reach me with email.
   
 </div>
   

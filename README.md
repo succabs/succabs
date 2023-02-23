@@ -16,7 +16,7 @@
 
   - :telescope: Currently studying in university and looking for a job.
   
-  - :zap: Interested in Full Stack Development and Network Security.
+  - :zap: Interested in Front End Development and Network Security.
   
   - :joystick: On my free time I play games, solve Rubik's cube and do some magnet fishing.
   

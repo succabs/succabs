@@ -14,7 +14,7 @@
   
   I am a developer from Finland.
 
-  - :telescope: Currently studying in university and looking for a job.
+  - :telescope: Currently on a job hunt, just got my Bachelor's degree in Computer Science.
   
   - :zap: Interested in Front End Development and Network Security.
   

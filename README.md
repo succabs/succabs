@@ -14,9 +14,9 @@
   
   I am a developer from Finland.
 
-  - :telescope: Got my Bachelor's degree in Computer Science in June 2023.
+  - :telescope: Bachelor's degree in Computer Science
   
-  - :zap: Interested in Front End Development and old computers & the history of technology.
+  - :zap: Interested in Front End Development and old computers & the history of technology
   
   - :joystick: On my free time I play games, solve Rubik's cube and do some magnet fishing.
   

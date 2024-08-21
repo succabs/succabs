@@ -16,9 +16,9 @@
 
   - :telescope: Bachelor's degree in Computer Science
   
-  - :zap: Interested in Front End Development and old computers & the history of technology
+  - :zap: Interested in Development and old computers & the history of technology
   
-  - :joystick: On my free time I play games, solve Rubik's cube and do some magnet fishing.
+  - :joystick: On my free time I play games, enjoy scifi and do some magnet fishing.
   
   - :mailbox: You can reach me with email.
   
